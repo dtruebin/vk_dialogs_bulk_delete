@@ -1,0 +1,4 @@
+# Populate the config with the values from a URL you were redirected to after successful authorization of the app
+# Example: https://oauth.vk.com/blank.html#access_token=0dba993a40a7a4ba&expires_in=86400&user_id=12345
+ACCESS_TOKEN=0dba993a40a7a4ba
+MY_USER_ID=12345
